@@ -1,0 +1,24 @@
+{
+  "name": "study_web_application",
+  "version": "1.0.0",
+  "description": "Server side javascript tutorial",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LAH1203/Study_web_application.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LAH1203/Study_web_application/issues"
+  },
+  "homepage": "https://github.com/LAH1203/Study_web_application#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jade": "^1.11.0",
+    "underscore": "^1.12.0"
+  }
+}
